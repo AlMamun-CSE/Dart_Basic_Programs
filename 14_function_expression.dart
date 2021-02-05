@@ -1,5 +1,5 @@
-// OBJECTIVE: Expression in Function: SHORT HAND SYNTAX
 //Al Mamun CSE.................
+// OBJECTIVE: Expression in Function: SHORT HAND SYNTAX
 void main() {
 
 	findPerimeter(4, 2);
