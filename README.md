@@ -65,4 +65,7 @@ Learn Dart Programming, its basics and Fundamentals from scratch.
     - Using async* - Asynchronous Generator
     - Using sync* + yield* - Recursive Synchronous Generator
     - Using async* + yield* - Recursive Asynchronous Generator
+15. Generics in Dart and Flutter
+    - Generics in the core libraries
+    - - Collections, streams, and futures are the core library features
 
