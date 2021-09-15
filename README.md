@@ -69,4 +69,5 @@ Learn Dart Programming, its basics and Fundamentals from scratch.
     - Generics in the core libraries
     - - Collections, streams, and futures are the core library features
 16. Library
+17. Trigonometry
 
